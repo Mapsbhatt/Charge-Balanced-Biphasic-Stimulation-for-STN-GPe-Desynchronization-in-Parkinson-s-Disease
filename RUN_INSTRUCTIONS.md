@@ -57,12 +57,3 @@ All code is written in MATLAB. Each script corresponds to a specific experiment 
 Use these to explore intrinsic dynamics and tuning of input currents or conductances.
 
 ---
-
-## ✅ Prerequisites
-
-- MATLAB 2020a or newer
-- No additional toolboxes required
-
-Run any script from the MATLAB console:
-```matlab
->> STN_GPe_WeightBased
